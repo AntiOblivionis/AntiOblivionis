@@ -6,4 +6,5 @@
 - 📧Email：antioblivionis@gamil.com
 - 🐧QQ：319641317
 - 💝Aifadian：https://ifdian.net/a/antioblivionis
-- 🔑OpenPGP Signature：103E 365F 434B E9B3 3008 F4AB 4C43 8695 B3AF 36ED
+- 🔑OpenPGP Signature：
+- 103E 365F 434B E9B3 3008 F4AB 4C43 8695 B3AF 36ED
