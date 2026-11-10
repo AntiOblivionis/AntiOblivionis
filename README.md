@@ -3,7 +3,7 @@
 <img align="right" width="420" src="https://github-stats-extended.vercel.app/api?username=antioblivionis&show_icons=true&icon_color=881144&text_color=881144&bg_color=ffffff&hide_title=true&include_all_commits=true" />
 
 - 🌏Website：https://id.tgwgroup.ltd
-- 📧Email：antioblivionis@gamil.com
+- 📧Email：antioblivionis@gmail.com
 - 🐧QQ：319641317
 - 💝Aifadian：https://ifdian.net/a/antioblivionis
 - 🔑OpenPGP Signature：
